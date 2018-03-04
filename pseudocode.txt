@@ -1,0 +1,7 @@
+<!-- OVERVIEW --!>
+1) Computer guesses a letter a-z at random
+2) User inputs their letter of choice
+Wins If user guesses same letter, they get 1 win point.  They get the # of starting guesses to get the letter.
+Losses: If the user runs out of guesses, they get 1 loss point
+Guesses Left: # Of Guesses Left, any number of starting guesses is fine. Resets when running out of guesses (loss) or if user wins.
+Your Guesses So Far: Displays list of inputted guesses for this round
